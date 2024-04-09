@@ -1,4 +1,6 @@
 # YahooFinanceMessageBoard
+Dataset Link: https://github.com/nhthien/YahooFinanceMessageBoard
+
 This dataset consists of  the 18 message boards of the 18 stocks from Yahoo Finance Message Board for a period of one year (from July 23, 2012 to July 19, 2013)
 
 For more information, please look at the following publications which used this dataset. In addition, when you use this dataset, please cite these two publications:
